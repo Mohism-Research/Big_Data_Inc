@@ -17,3 +17,9 @@
 5. 茶行业数据
 
 6. 家医群数据
+
+7. many wechat accounts（一台linux多开wechat帐户?，虚拟机方案） auto add friends
+ * add friends from excel file friends.xls
+ * add message as "hi 王鞠华 您好，xxx"
+ * Linux version: wechat https://github.com/geeeeeeeeek/electronic-wechat 
+ * Limit QQ have limit the NO. of friends which we plan to add everyday.
