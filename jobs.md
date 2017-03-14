@@ -8,10 +8,7 @@
 |e|五| dfjdj|dfdsf　　| dfdffdsffffffffffffffffff |
 |e|五| dfjdj|dfdsf　　| dfdffdsffffffffffffffffff |
 
-
-
 ## 长远  
-
 |任务|难度|　进度　　|描述          |难点        |
 ---|---|---|---|---------------
 |支付牌照||己亥 || |  
@@ -21,6 +18,6 @@
 |家医|| 己亥|　　|  |
 |张家口土方项目|| 己亥|　　|  |
 |政府扶持资金|| 庚子 |　　|  |
-|zcash||庚子 |　　|  |
+|zcash||庚子 |　jdjf　| dfd |
 |无人机||庚子 |　　|  |
 |合居||庚子 |　明天处理掉　|  |
