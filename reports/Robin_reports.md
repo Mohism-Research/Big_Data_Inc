@@ -10,3 +10,6 @@
 1. 找到了版本依赖冲突问题的解决方法
 2. 明确了scrapy框架的基本结构：settings，item，spider，pipeline，log，spider template（basic，crawl，csvfeed，xlmfeed）
 3. 在上述工作的基础上，理顺了流程和思路，可以实际调试运行代码，逐步实现需求。
+#3.17进度#
+1. 利用工具解决了版本和环境问题，昨天的想法得到了验证！其实爬虫项目可以有好多的运行环境，Python并不是唯一的选择！
+2. 实际运行跑通了itzhaopin项目的代码，下载到了tencent的IT工程师招聘信息，病保存到了本地json文件:tencent.json文件！
