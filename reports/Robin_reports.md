@@ -6,3 +6,7 @@
 * 针对需求，调试运行scrapy框架demo的代码，正常跑起来demo
 * 明确代码中存在的问题，并积极解决问题
 * 评估现状和需求目标的距离，确定后续的工作量和进度
+#2017/3/16 进度#
+1. 找到了版本依赖冲突问题的解决方法
+2. 明确了scrapy框架的基本结构：settings，item，spider，pipeline，log，spider template（basic，crawl，csvfeed，xlmfeed）
+3. 在上述工作的基础上，理顺了流程和思路，可以实际调试运行代码，逐步实现需求。
