@@ -60,3 +60,10 @@
 * Jello Huang
 
   * 實現client to server 加密方案
+
+
+ # 2017.04.25 #
+
+* Jello Huang
+
+  * Finish ESOP
