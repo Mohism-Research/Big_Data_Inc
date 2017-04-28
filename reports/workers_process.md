@@ -79,3 +79,9 @@
 * Jello Huang
 
   *  Add wechatid and virutal
+
+ # 2017.04.27 #
+ 
+* Jello Huang
+
+  *  大大小小的問題解決了五六個，搞到現在已經不知道解決多少問題了！！！！
