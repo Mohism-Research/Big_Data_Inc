@@ -66,4 +66,10 @@
 
 * Jello Huang
 
-  * Finish ESOP
+  *  Finish ESOP
+
+ # 2017.04.26 #
+
+* Jello Huang
+
+  *  Add encrypyt
