@@ -66,16 +66,16 @@
 
 * Jello Huang
 
-   *  Finish ESOP
+  *  Finish ESOP
 
  # 2017.04.26 #
 
 * Jello Huang
 
-   *  Add encrypyt
+  * Add encrypyt
 
  # 2017.04.27 #
 
 * Jello Huang
 
-   *  Add wechatid and virutal
+  *  Add wechatid and virutal
