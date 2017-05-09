@@ -20,6 +20,8 @@
 :rocket: **最近一定要处理的事**  
 de不好搞定。
 
+https://github.com/lining0806/PythonSpiderNotes
+
 - [ ] **成立公司** 
 
 :rocket: 完成60%,还有重要股东得协商下.BTW:XX选择效率很高!  70%，准备相关材料与相关人员。计划3.22号左右处理好。ask sb to perepare Option ~_~
