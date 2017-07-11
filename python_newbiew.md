@@ -4,3 +4,7 @@
  *  python.exe -m py_compile hello_mouse.py
 
 2. https://zhuanlan.zhihu.com/pythoncoder
+
+3. http://www.diveintopython3.net/
+
+4. just ref https://www.zhihu.com/question/19593179
