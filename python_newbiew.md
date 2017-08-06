@@ -8,3 +8,5 @@
 3. http://www.diveintopython3.net/
 
 4. just ref https://www.zhihu.com/question/19593179
+
+5. https://learnpythonthehardway.org/book/ 没有编程基础的人一周时间学习完
